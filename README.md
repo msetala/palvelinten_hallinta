@@ -1,2 +1,2 @@
 # palvelinten_hallinta
-kurssin tehtävät
+Tehtävät Tero Karvisen Palvelinten Hallinta -kurssille.
